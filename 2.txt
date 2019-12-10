@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 adsadasdsoczosakdoakd
 askfmdosnfa
 dsojahdoiuwaijdpw
+=======
+new gimmmmmm
+>>>>>>> d386fb382df0443ea536bda48850e98bde37c4af
